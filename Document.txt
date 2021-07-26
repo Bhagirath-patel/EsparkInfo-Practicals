@@ -1,0 +1,41 @@
+## To install angular cli we need nodejs and npm
+
+## Download nodejs  - https://nodejs.org/en/download/?utm_source=blog
+- install node
+- Install Angular using following command: npm install -g @angular/cli
+
+## Angular Demo
+# To run the project in development server
+
+1. Go to enviroments folder and update api URL in files.
+2. Go to project root folder and run below commands
+
+```
+> npm install
+> npm start
+
+## Build Project Production Mode
+
+Run `ng build --prod` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `--prod` flag for a production build.
+
+
+## Node API
+
+# To handle authentication with Node JS, Express, Mongo DB, JWT Auth
+
+This project demonstrate how we can use multiple JavaScript Technologies to write a code to handle authentication part for node js application
+
+# To run the project in development server
+
+1. Go to `.env` file and update the db credentials and update the scret key.
+2. Go to project root folder and run below commands
+
+```
+> npm install
+> npm start
+```
+
+# Pre-requites
+
+1. Node JS v12.16.1 or above.
+2. Visual Studio Code( Text-Editor )
